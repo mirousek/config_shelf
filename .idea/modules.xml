@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/configshelf.iml" filepath="$PROJECT_DIR$/.idea/configshelf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../definition/.idea/definition.iml" filepath="$PROJECT_DIR$/../definition/.idea/definition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../pathevo/pathevo/conf/config_shelf/definitions/.idea/definitions.iml" filepath="$PROJECT_DIR$/../../pathevo/pathevo/conf/config_shelf/definitions/.idea/definitions.iml" />
+    </modules>
+  </component>
+</project>
+
